@@ -1,0 +1,27 @@
+@import url(./fonts.css);
+
+:root{
+    --MidnightGreen:#014E56;
+    --LightCoral: #F67E7E;
+    --White:#fff;
+    --RaptureBlue:#79C8C7;
+    --PoliceBlue:#2C6269;
+    --DeepJungleGreen:#004047;
+    --SacramentoStateGreen: #012F34;
+    --DarkGreen:#002529;
+    --Livvic:"Livvic";
+}
+
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
